@@ -1,4 +1,5 @@
 Welcome to our Color Generator, a dynamic and user-friendly website built on React that transforms your color visions into a spectrum of captivating shades. Whether you have a specific hexa decimal color code in mind or you're seeking inspiration, our tool is designed to bring your color palette dreams to life.
+Vercel Deployment Link: https://color-generator-0.vercel.app/
 
 Key Features:
 
